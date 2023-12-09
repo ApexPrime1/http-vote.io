@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-app.votelive.uk	TRUE	/	FALSE	1999999999	csrftoken	SGM3SWQ0aYl18iOMtAxsGAHvX94XIJlj
-app.votelive.uk	TRUE	/	FALSE	1999999999	messages	.eJztzEEKwkAMBdCrfLJxE6QL7-ABXEkpw0hDqLSTMsko3l5x7wGEOcB740gp3d1K2sQ9qxAPfBqYLlbri_EUzFYOAW_7bjVwNtNVsJouBVnzUo7ERBP_iq7WsDUP3L5KZcZHhuFhId122223_2WnN7Blrsk:1r9ENJ:wXbLlqYMJWGKtnURUH8DOJDRG6Zj1Cz-Gvo-zsje9Bc
-app.votelive.uk	TRUE	/	FALSE	1999999999	SameSite	Lax
-
